@@ -21,6 +21,21 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
-  }
+    "colors": "^1.4.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3",
+    "lowdb": "^7.0.1"
+  },
+  "description": "",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margarciaprimo/prueba-git-only.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/margarciaprimo/prueba-git-only/issues"
+  },
+  "homepage": "https://github.com/margarciaprimo/prueba-git-only#readme"
 }
